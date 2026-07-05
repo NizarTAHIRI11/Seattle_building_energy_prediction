@@ -118,7 +118,6 @@ docker run -p 3000:3000 api_energy
 API déployée sur **Google Cloud Run** :
 🔗 https://api-energy-610310238285.europe-west1.run.app/
 
-> ⚠️ Vérifie que ce endpoint doit rester public avant de garder ce lien dans le README (facturation / quotas Cloud Run).
 
 ## Structure du projet
 
